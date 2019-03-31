@@ -1,6 +1,6 @@
 {
     "name": "ntcdev/core",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "license": "ntcdev",
     "description": "This is core package",
     "authors": [
@@ -14,7 +14,8 @@
         "php": "^7.1.3",
         "laravel/framework": "5.7.*",
         "mcamara/laravel-localization": "1.3.*",
-        "prettus/l5-repository": "^2.6"
+        "prettus/l5-repository": "^2.6",
+        "dimsav/laravel-translatable": "^9.0"
     },
     "autoload": {
         "psr-4": {
