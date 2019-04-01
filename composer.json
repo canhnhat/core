@@ -1,7 +1,6 @@
 {
     "name": "ntcdev/core",
     "version": "1.0.2",
-    "license": "ntcdev",
     "description": "This is core package",
     "authors": [
         {
